@@ -6,7 +6,7 @@
         <div class="col-sm-7">
           <h6>About Us</h6>
           <div class="about-foot">
-            <p>A concern of Care and Cure Group is the only multi-disciplinary super-specialty tertiary care hospital in Bangladesh, confidently providing comprehensive health care with the latest medical, surgical and diagnostic facilities. These services are provided by expert medical professionals, skilled nurses and technologists using state-of-the-art technology. </p>
+            <p>A concern of Metro MediCare Group is the only multi-disciplinary super-specialty tertiary care hospital in Kotte, confidently providing comprehensive health care with the latest medical, surgical and diagnostic facilities. These services are provided by expert medical professionals, skilled nurses and technologists using state-of-the-art technology. </p>
           </div>
         </div>
         
@@ -19,12 +19,12 @@
             <p>334 Kotte Rd, Pitakotte, Sri Lanka</p>
             <ul>
               <li class="mobile">
-                <p>1010 2020 36360</p>
-                <p>9-269-690-HMS</p>
+                <p>070 5938 158</p>
+                <p>9-342-645-HMS</p>
               </li>
               <li class="email">
-                <p>hmsphp@gmail.com</p>
-                <p>info@hmsphp.com</p>              </li>
+                <p>metromedc@gmail.com</p>
+                <p>info@metromedc@gmail.com</p>              </li>
             </ul>
           </div>
         </div>
@@ -35,7 +35,7 @@
   <!-- Rights -->
   <div class="rights style-2">
     <div class="container">
-      <p>© <?php echo date("Y"); ?> Hospital Management System - Template by M_ADNAN & Application Developed By <span style="color: white">Khyrul Kabir</span></p>
+      <p>© <?php echo date("Y"); ?> MedSphere Medical Management System Developed By <span style="color: white">SolutionStreamTeam</span></p>
     </div>
   </div>
   
