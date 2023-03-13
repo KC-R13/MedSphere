@@ -155,12 +155,12 @@ $tim = date("H:i:s");
 
 
 
-                        <li><a href="javascript:void(0);" class="menu-toggle"><i class="zmdi "><img src="https://img.icons8.com/ios-filled/20/EBEBEB/laboratory.png"/></i><span>Labratory</span> </a>
+                        <li><a href="javascript:void(0);" class="menu-toggle"><i class="zmdi "><img src="https://img.icons8.com/ios-filled/20/EBEBEB/laboratory.png"/></i><span>Laboratory</span> </a>
                             <ul class="ml-menu">
                                 <!-- <li><a href="adminprofile.php">Labratory Profile</a></li> -->
                                 <!-- <li><a href="adminchangepassword.php">Change Password</a></li> -->
-                                <li><a href="labAssistant.php">Add Labratory</a></li>
-                                <li><a href="viewLabAssistant.php">View Labratory</a></li>
+                                <li><a href="labAssistant.php">Add Laboratory</a></li>
+                                <li><a href="viewLabAssistant.php">View Laboratory</a></li>
                             </ul>
                         </li>
 
@@ -226,7 +226,7 @@ $tim = date("H:i:s");
                                         <li><a href="emailDoctor.php">To Doctor</a>
                                         <li><a href="emailReceptionist.php">To Receptionist</a>
                                         <li><a href="emailPharmacist.php">To Pharmacist</a>
-                                        <li><a href="emailLabAssistant.php">To Labratory</a>
+                                        <li><a href="emailLabAssistant.php">To Laboratory</a>
 
 
                                     </ul>
@@ -709,3 +709,6 @@ $tim = date("H:i:s");
 
     </section>
     <section class="content home">
+        
+        
+        
